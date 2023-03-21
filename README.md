@@ -99,7 +99,9 @@ snull().sum() after cleaning
 
 ![LAST](https://user-images.githubusercontent.com/120232371/226585937-b92cd15d-d160-4e12-bb4c-600abbef7957.png)
 
+RESULT:
 
+Thus the given data is read,cleansed and cleaned data is saved into the file.
 
 
 
